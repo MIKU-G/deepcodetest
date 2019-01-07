@@ -59,4 +59,4 @@ return feature
 def batchProcess(self, imgs, filters):
 features = []
 for idx in range(imgs.shape[0]):
-img = imgs[idx, :, :, :]
+img = imgs[idx, :, :, :
